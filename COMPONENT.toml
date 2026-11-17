@@ -3,7 +3,7 @@ name = "SigmaOS-data-quality-engine"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "data-quality-engine component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
